@@ -17,7 +17,7 @@ Seguindo a solicitação do procedimento, ao final, sera apresentado um aplicati
 
 Na apresentação da listagem dos itens pertencentes ao array, é possivel realizar a exclusão do mesmo
 
-O aplicativo consolidado se encontra na pasta procedimento2/livros-angular 
+**_O aplicativo consolidado se encontra na pasta procedimento2/livros-angular_** 
   
 ## Procedimentos 
 
