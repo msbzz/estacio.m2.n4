@@ -1,0 +1,30 @@
+<table>
+  <thead>
+    <tr>
+
+      <th>Título</th>
+      <th>Resumo</th>
+      <th>Editora</th>
+      <th>Autores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let livro of livros; index as i" [ngClass]="{ 'even': i % 2 === 0, 'odd': i % 2 !== 0 }">
+      <td class="hd-title">
+        {{ livro.titulo }}
+        <button >Excluir</button>
+      </td>
+      <td>
+        {{ livro.resumo }}
+      </td>
+      <td>{{obterNome(livro.codEditora)}}</td>
+      <td>
+         <ul>
+          <li *ngFor="let autor of livro.autores">{{ autor }}</li>
+         </ul>
+      </td>
+
+      <!--<td>{{ livro.autores.join(', ') }}</td>-->
+    </tr>
+  </tbody>
+</table>
