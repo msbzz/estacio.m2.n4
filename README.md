@@ -331,9 +331,5 @@ nome-do-repositorio/
 └── README.md
 ```
 
- 
-## Licença
-Este projeto está licenciado sob a [descreva a licença utilizada]. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
-
-## Contato
+  
  
