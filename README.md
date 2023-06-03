@@ -315,22 +315,31 @@ Siga estas etapas para instalar e executar o projeto em sua máquina local:
 - HTML
 - Bootstrap
 - CSS
-- JavaScript
+- Type Script
+- Angular
 
 ## Estrutura de diretórios
 A estrutura de diretórios do projeto é organizada da seguinte forma:
 
 ```
-nome-do-repositorio/
+livros-angular 
+├── app/
+│   ├── livro-dados
+│   ├── livro-lista
+│   ├── app.component.css
+│   ├── app.component.html
+│   ├── app.component.ts
+│   ├── app.module.ts
+│   ├── app-routing,module.ts
+│   ├── constrole-editora.service.ts
+│   ├── controle-livro.service.ts
+│   ├── editora.ts
+│   └── livro.ts
+├── assets
+│   └── style.css 
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── img/
-│   └── imagem1.jpg
-│   └── imagem2.png
-└── README.md
+├── main.ts
+└── styles.css
 ```
 
   
