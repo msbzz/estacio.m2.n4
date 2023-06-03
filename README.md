@@ -181,7 +181,8 @@ localhost:4200/ através de um navegador
 
 .Ajuste as características para obter uma página como o exemplo abaixo:
 
-![image](https://github.com/msbzz/estacio.m2.n4/assets/44148209/61a9bede-e664-4c68-8a12-fee179175fe5)
+ ![image](https://github.com/msbzz/estacio.m2.n4/assets/44148209/58465ed4-928a-499c-bb04-b226f1311770)
+
 
 👉 2º Procedimento | Página de Cadastro e Sistema de Navegação
 
@@ -276,7 +277,8 @@ através de um navegador;
 
 .Ajuste as características para obter uma página como o exemplo abaixo:
 
-![image](https://github.com/msbzz/estacio.m2.n4/assets/44148209/36085e51-fd6d-416a-87aa-e598c2f4d9b7)
+
+![image](https://github.com/msbzz/estacio.m2.n4/assets/44148209/c11d6fd4-26f2-4f96-b287-e7cf923c0229)
 
 
 
@@ -307,7 +309,7 @@ Siga estas etapas para instalar e executar o projeto em sua máquina local:
    2.3 execute o projeto  
     
       npm start 
-   
+      e acesse o endereço http://localhost:4200/ através de um navegador;
    ``` 
 ## Tecnologias utilizadas
 - HTML
