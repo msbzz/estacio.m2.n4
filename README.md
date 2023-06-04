@@ -13,9 +13,9 @@ Implementar a navegação interna do front-end com base em Angular
    
 ## Funcionalidades
  
-Seguindo a solicitação do procedimento, ao final, sera apresentado um aplicativo Angular inicializado com um array pré definido, estando sempre em memória. Também é esperado que tenha um menu de navegação onde poderá se realizar o cadastro de novos itens.
+Seguindo a solicitação do procedimento, ao final, será apresentado um aplicativo Angular, inicializado sempre por um array pré definido, com um menu de navegação onde poderá se realizar a navegoação entre o módulo principal e o de cadastro de novos itens. 
 
-Na apresentação da listagem dos itens pertencentes ao array, é possivel realizar a exclusão do mesmo
+obs: a exclusão será através de um icone contido ao final de cada item apresentado na listagem do módulo principal
 
 **_O aplicativo consolidado se encontra na pasta procedimento2/livros-angular_** 
   
