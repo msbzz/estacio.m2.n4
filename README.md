@@ -64,6 +64,8 @@ Siga estas etapas para instalar e executar o projeto em sua máquina local:
 ## Estrutura de diretórios
 A estrutura de diretórios do projeto é organizada da seguinte forma:
 
+![image](https://github.com/msbzz/estacio.m2.n4/assets/44148209/8c4be909-f8de-497d-b10d-ff9c73562fce)
+
 ```
 livros-angular 
 ├── app/
